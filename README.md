@@ -22,8 +22,15 @@ A responsive and interactive student portal built using HTML, CSS, and Vanilla.j
 - LocalStorage API
 
 ## 📷 Screenshots
+![portal shot1](https://github.com/user-attachments/assets/ae96930d-e90e-4d3d-a52b-7e3c5bb1bb38)
 
+![portal shot2](https://github.com/user-attachments/assets/27e44c42-45a9-4779-9bcc-90b84722408b)
 
+![portal shot3](https://github.com/user-attachments/assets/37c95f6c-9322-4cfa-82dd-8db0e0ef8a0b)
+
+![portal shot4](https://github.com/user-attachments/assets/b25c41a9-12dc-4674-bc2f-afa6f45e3d4f)
+
+![portal shot5](https://github.com/user-attachments/assets/72ae87ce-c563-4e5a-a62a-9e81a4ea33d0)
 
 
 ## 🔧 How to Use
