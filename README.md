@@ -24,15 +24,6 @@ A responsive and interactive student portal built using HTML, CSS, and Vanilla.j
 ## 📷 Screenshots
 
 
-![Screenshot 2025-05-27 at 22 58 07](https://github.com/user-attachments/assets/a120f99e-a495-4407-8a00-67ed1778265f)
-
-![Screenshot 2025-05-27 at 22 58 14](https://github.com/user-attachments/assets/ff51c8e8-4ffe-44f7-a8f8-4a4af82bf88e)
-
-![Screenshot 2025-05-27 at 22 58 23](https://github.com/user-attachments/assets/f2b9af4e-7983-426c-9920-fdb80fc6b209)
-
-![Screenshot 2025-05-27 at 22 58 29](https://github.com/user-attachments/assets/c9591c3e-9a47-4645-a557-f1b433879b8a)
-
-![Screenshot 2025-05-27 at 22 58 35](https://github.com/user-attachments/assets/f8c2b860-c525-42bb-8c61-5277c309b051)
 
 
 ## 🔧 How to Use
