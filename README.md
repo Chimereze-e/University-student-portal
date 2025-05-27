@@ -5,7 +5,7 @@ A simple, browser-based student portal for Chimereze University built with HTML,
 
 A responsive and interactive student portal built using HTML, CSS, and Vanilla.js to help students at Chimereze University manage their academic activities efficiently.
 
-## 🚀 Features
+## Features
 
 - 📅 **Class Schedule Management**: Add, view, and organize your weekly class schedule.
 - 📊 **Grade Tracking**: Log and view your course grades with percentage scores.
@@ -23,7 +23,17 @@ A responsive and interactive student portal built using HTML, CSS, and Vanilla.j
 
 ## 📷 Screenshots
 
-_Add screenshots of the dashboard, modals, and other components here if needed._
+
+![Screenshot 2025-05-27 at 22 58 07](https://github.com/user-attachments/assets/a120f99e-a495-4407-8a00-67ed1778265f)
+
+![Screenshot 2025-05-27 at 22 58 14](https://github.com/user-attachments/assets/ff51c8e8-4ffe-44f7-a8f8-4a4af82bf88e)
+
+![Screenshot 2025-05-27 at 22 58 23](https://github.com/user-attachments/assets/f2b9af4e-7983-426c-9920-fdb80fc6b209)
+
+![Screenshot 2025-05-27 at 22 58 29](https://github.com/user-attachments/assets/c9591c3e-9a47-4645-a557-f1b433879b8a)
+
+![Screenshot 2025-05-27 at 22 58 35](https://github.com/user-attachments/assets/f8c2b860-c525-42bb-8c61-5277c309b051)
+
 
 ## 🔧 How to Use
 
@@ -36,4 +46,16 @@ _Add screenshots of the dashboard, modals, and other components here if needed._
    - **Settings**: Customize your name and level.
 
 ## 📁 File Structure
+
+
+## ⚠️ Notes
+
+- This project is fully client-side and does not require a server.
+- Data will persist only on the browser where it was entered.
+- Make sure to keep the image paths correct, especially if hosting the site.
+
+## 📄 License
+
+This project is open-source and free to use for educational purposes.
+
 
