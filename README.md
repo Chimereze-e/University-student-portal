@@ -42,7 +42,6 @@ A responsive and interactive student portal built using HTML, CSS, and Vanilla.j
    - **Grades**: Log your grades and view your GPA.
    - **Settings**: Customize your name and level.
 
-## 📁 File Structure
 
 
 ## ⚠️ Notes
