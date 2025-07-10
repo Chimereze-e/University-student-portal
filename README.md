@@ -7,21 +7,21 @@ A responsive and interactive student portal built using HTML, CSS, and Vanilla.j
 
 ## Features
 
-- 📅 **Class Schedule Management**: Add, view, and organize your weekly class schedule.
-- 📊 **Grade Tracking**: Log and view your course grades with percentage scores.
-- 🧮 **GPA Calculator**: Automatically calculates GPA based on your entered grades.
-- 📝 **Personalized Settings**: Customize your name and academic level.
-- 📂 **Data Persistence**: All data is stored locally using `localStorage` — no backend required.
-- 🔒 **Reset Functionality**: Easily clear all data to start fresh.
+- **Class Schedule Management**: Add, view, and organize your weekly class schedule.
+- **Grade Tracking**: Log and view your course grades with percentage scores.
+- **GPA Calculator**: Automatically calculates GPA based on your entered grades.
+- **Personalized Settings**: Customize your name and academic level.
+- **Data Persistence**: All data is stored locally using `localStorage` — no backend required.
+- **Reset Functionality**: Easily clear all data to start fresh.
 
-## 🖥️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
 - LocalStorage API
 
-## 📷 Screenshots
+## Screenshots
 ![portal-shot1](https://github.com/user-attachments/assets/b24bab82-5a90-4544-9a55-2bbdd8683a64)
 
 ![portal-shot2](https://github.com/user-attachments/assets/9a3bf9aa-6674-4426-9ba0-5aad5d4c748a)
@@ -32,7 +32,7 @@ A responsive and interactive student portal built using HTML, CSS, and Vanilla.j
 
 ![portal-shot5](https://github.com/user-attachments/assets/24a9f3d4-c6f9-4038-898f-85248518543a)
 
-## 🔧 How to Use
+## How to Use
 
 1. Clone or download this repository.
 2. Open the `index.html` file in any modern web browser.
@@ -44,14 +44,11 @@ A responsive and interactive student portal built using HTML, CSS, and Vanilla.j
 
 
 
-## ⚠️ Notes
+## Notes
 
 - This project is fully client-side and does not require a server.
 - Data will persist only on the browser where it was entered.
 - Make sure to keep the image paths correct, especially if hosting the site.
 
-## 📄 License
-
-This project is open-source and free to use for educational purposes.
 
 
